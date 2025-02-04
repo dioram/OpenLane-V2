@@ -37,7 +37,7 @@ install_requires = [
     "scikit-learn",
     "similaritymeasures",
     "opencv-python",
-    "scipy==1.8.0",
+    "scipy>=1.8.0",
     "ortools==9.2.9972",
     "iso3166",
     "chardet",
